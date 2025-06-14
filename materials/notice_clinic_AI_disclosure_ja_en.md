@@ -15,9 +15,9 @@ AIの利用をご希望されない方は、お気軽にお申し出ください
 AIの使用有無は、施術の質に直接影響するものではありません。  
 使用された場合でも、回答文等はすべて施術者が確認・編集し、責任を持ってお伝えしています。
 
-**発行日：** 2025年6月10日  
-**発行者：** 白石健二郎（鍼灸師）  
-**田無北口鍼灸院**
+- 発行日：2025年6月10日  
+- 発行者：白石健二郎（鍼灸師）  
+- 所属：田無北口鍼灸院
 
 ---
 
@@ -34,6 +34,6 @@ If you have any questions or concerns, you are also welcome to speak with us dir
 Whether or not AI is used has no direct impact on the quality of treatment.  
 Even when AI is used, all responses and suggestions are carefully reviewed and edited by the practitioner, who remains fully responsible for their content.
 
-**Issued on:** June 10, 2025  
-**Issued by:** Kenjiro Shiraishi (Licensed Acupuncturist)  
-**Tanashi Kitaguchi Acupuncture and Moxa Salon**
+- Issued on: June 10, 2025  
+- Issued by: Kenjiro Shiraishi (Licensed Acupuncturist)  
+- Clinic: Tanashi Kitaguchi Acupuncture and Moxa Salon
