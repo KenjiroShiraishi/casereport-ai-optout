@@ -50,3 +50,24 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 ## 🔗 Related Tags
 
 `#AIethics` `#OptOut` `#ClinicalPractice` `#PatientDisclosure` `#Casereport` `#AcupunctureAI` `#LLMs`
+
+## 📁 Examples / Experiments / Results
+
+This folder contains real-world test cases demonstrating how AI-generated diagnostic suggestions can be presented and contextualized for patient communication in clinical practice (e.g., acupuncture).
+
+### 🔍 Available Cases
+
+- [palpitation_case_20250619JP.md](./examples/experiments/results/palpitation_case_20250619JP.md) — Japanese version  
+- [palpitation_case_20250619EN.md](./examples/experiments/results/palpitation_case_20250619EN.md) — English version  
+
+Each case file includes:
+
+- Patient prompt with brief medical context  
+- Gemini 2.5-generated output (diagnostic suggestion and triage reasoning)  
+- Practitioner commentary on interpretability and ethical responsibility  
+
+These examples are part of the broader SML-CML framework project, which aims to evaluate AI outputs based on semantic meaning layers and worldview alignment in clinical reasoning.
+
+> For more information, visit our preprint: [https://osf.io/p24sa](https://osf.io/p24sa)
+
+
